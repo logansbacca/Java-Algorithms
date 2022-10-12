@@ -1,1 +1,1 @@
-Solved Java Algorithms coded in the class Programming II.
+Solved Java Algorithms from the course Programming II.
