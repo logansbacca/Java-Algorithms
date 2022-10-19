@@ -1,5 +1,6 @@
 # Statistiche testo
 
+
 Scrivere un programma che: 
 * legga da **standard input** un testo su più righe;
 * termini la lettura quando, premendo la combinazione di tasti `Ctrl+D`, viene inserito da **standard input** l'indicatore End-Of-File (EOF);

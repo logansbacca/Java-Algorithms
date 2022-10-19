@@ -5,7 +5,7 @@ Scrivere un programma che legga da **riga di comando** un numero reale `raggio` 
 Oltre al metodo `main()`, il programma deve definire e utilizzare i seguenti metodi:
 * `public static double CalcolaArea(double raggio)` che restituisce il valore dell'area del cerchio associato;
 * `public static double CalcolaCirconferenza(double raggio)` che restituisce il valore della circonferenza del cerchio associato.
-
+1
 NOTA: per convertire dalla stringa letta a double, potete utilizzare il metodo `parseDouble()` della classe `Double`
 
 ##### Esempio d'esecuzione:
