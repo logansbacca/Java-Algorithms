@@ -7,7 +7,7 @@ public class testo {
         int words = 0;
         int counter = 0;
         Scanner newscanner = new Scanner(System.in);
-        while (newscanner.hasNext()) {
+        while (newscanner.hasNextLine()) {
 
             String line = newscanner.nextLine();
             String w[] = line.split(" ");

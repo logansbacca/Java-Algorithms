@@ -1,6 +1,6 @@
 # Minimo, massimo e valor medio (Array)
 
-Scrivere un programma che riceva in input da **riga di comando** un intero `n`.
+
 Il programma deve leggere da **standard input** una sequenza di `n` valori interi e deve stampare a video il valore minimo, massimo e medio tra i valori letti.
 
 Oltre al metodo `main`, devono essere definiti ed utilizzati almeno i seguenti metodi:
