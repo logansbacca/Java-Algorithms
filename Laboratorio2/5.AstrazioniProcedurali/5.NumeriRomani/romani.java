@@ -35,7 +35,6 @@ public class romani {
             return;
         };
         
-
         try {
             resp = Integer.parseInt(entrada);
             intToRoman(resp);
@@ -75,7 +74,7 @@ public class romani {
         int n = s.length();
         char prev = s.charAt(n-1);
         
-        for(int i=n;i>0;i--){
+        for(int i=n;i>0;i--){  
             char curr = s.charAt(i-1);
             if(h.get(curr)<h.get(prev))
                 ans-=h.get(curr);

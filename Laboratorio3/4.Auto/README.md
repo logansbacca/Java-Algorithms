@@ -12,7 +12,8 @@ Inoltre, implementare un metodo `main()` per collaudare la classe che legga da *
 $ java Auto 40 200 20
 Inserisci una tratta (<L. riforniti> <km da fare> <velocità>)
 30 120 50
-Tempo necessario: 2 ore e 24 minuti
+
+Tempo necessario: 2 ore e 24 minu
 Ti rimangono 24.0 L di carburante
 Inserisci una tratta (<L. riforniti> <km da fare> <velocità>)
 0 300 100
